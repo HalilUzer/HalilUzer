@@ -1,4 +1,4 @@
-# Hi 👋, I'm Halil About Me:
+# Hi 👋, I'm Halil
 
 I'm a software engineer.
 
