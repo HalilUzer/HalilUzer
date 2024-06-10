@@ -1,6 +1,6 @@
 # Hi 👋, I'm Halil
 
-I'm a software engineer.
+I'm a software engineer with experience mainly on Vue.js, Nest.js and Spring Boot, currently learning React.js.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/halil-uzer/) 
 
